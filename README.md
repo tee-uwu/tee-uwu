@@ -1,6 +1,6 @@
-## Hi There, I am Talha Jalal
+# Hi There, I am Talha Jalal
 
-#  About Me:
+##  About Me:
 <br><br>I am a Software Engineering student with a strong passion for **Data Science**. I love solving complex mathematical problems and am increasingly focused on data-driven technologies. While data is my primary direction, I have a diverse background that spans full-stack web development, cryptography, and even game design. <br><br>I am also currently preparing to pursue a Master's degree in a technical field! 🎓<br><br>**🚀 What I'm working on:**<br>*   Sharpening my **Data Science** skills and exploring algorithmic problem-solving.<br>*   **CryptoStudio:** Developing a MATLAB application for the encryption and decryption of text, images, and audio data using RSA cryptography.<br>*   **Web Applications:** Building full-stack platforms like PixelChat ,Teefy(a reto vinyl music player) and a bunch of other cool projects.<br>*   **Game Development:** Tinkering with the Godot engine to build 2D grid-based RPG mechanics and mobile farming games.<br><br>**🛠️ Tech Stack & Core Skills:**<br>*   **Data & Math:** Advanced Mathematics, Cryptography, Modular Arithmetic, MATLAB<br>*   **Web Development:** PHP, Laravel, Filament, MySQL, Tailwind CSS<br>*   **Creative & Game Dev:** Godot Engine, Pixel Art, 8-bit Sprite Design, UI/UX Branding<br>*   **Networking & Systems:** Cisco Packet Tracer configurations, Motor & Circuit Analysis<br><br>**⚡ Fun fact:** When I'm not crunching numbers or writing backend logic, you can usually find me designing custom pixel art and chibi character assets!
 
 
