@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=tee-uwu&icon=0&color=12" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=tee-uwu&icon=0&color=blue" alt="Profile Views" />
   </p>
 </div>
 
