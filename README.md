@@ -1,6 +1,9 @@
 <div align="center">
-  <h1>Hi There, I am Talha Jalal 👋</h1>
-  <p><i>Software Engineering Student | Data Science Major | Full-Stack & Game Developer</i></p>
+  
+  <!-- 8-Bit Pixel Art Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1500&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+There,+I+am+Talha+Jalal+!+%F0%9F%91%8B;Software+Engineering+Student;Data+Science+Major;Pixel+Art+%26+Game+Dev+Enthusiast+👾" alt="Typing SVG" />
+  </a>
 
   <p>
     <a href="https://instagram.com/anxie._.tee"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
@@ -16,19 +19,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👾 Player Stats (About Me)
 
-I am a Software Engineering student with a major in **Data Science**. I love solving complex mathematical problems and am increasingly focused on data-driven technologies. While data is my primary direction, I have a diverse background that spans full-stack web development, cryptography, and even game design. 
+I am a Software Engineering student with a major in **Data Science**. I love solving complex mathematical problems and am increasingly focused on data-driven technologies. While data is my primary direction, I have a diverse background that spans full-stack web development, cryptography, and game design. 
 
 Currently, I am also preparing to pursue a Master's degree in a technical field! 🎓
 
-### 🚀 What I'm Working On
+### 🗺️ Current Quests (Working On)
 *   📊 **Data Science:** Sharpening my skills and exploring algorithmic problem-solving.
 *   🔐 **CryptoStudio:** Developing a MATLAB application for the encryption and decryption of text, images, and audio data using RSA cryptography.
 *   🌐 **Web Applications:** Building full-stack platforms like *PixelChat*, *Teefy* (a retro vinyl music player), and a bunch of other cool projects.
-*   👾 **Game Development:** Tinkering with the Godot engine to build 2D grid-based RPG mechanics and mobile farming games.
+*   🎮 **Game Development:** Tinkering with the Godot engine to build 2D grid-based RPG mechanics and mobile farming games.
 
-### 🛠️ Core Skills
+### 🎒 Inventory (Core Skills)
 *   🧮 **Data & Math:** Advanced Mathematics, Cryptography, Modular Arithmetic, MATLAB
 *   💻 **Web Development:** PHP, Laravel, Filament, MySQL, Tailwind CSS
 *   🎨 **Creative & Game Dev:** Godot Engine, Pixel Art, 8-bit Sprite Design, UI/UX Branding
@@ -38,7 +41,7 @@ Currently, I am also preparing to pursue a Master's degree in a technical field!
 
 ---
 
-## 💻 Tech Arsenal
+## 🛠️ Tech Arsenal
 
 **Languages**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -54,7 +57,7 @@ Currently, I am also preparing to pursue a Master's degree in a technical field!
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Player Achievements
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=tee-uwu&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
