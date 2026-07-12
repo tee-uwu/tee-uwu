@@ -2,7 +2,7 @@
   
   <!-- 8-Bit Pixel Art Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1500&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+There,+I+am+Talha+Jalal+!+%F0%9F%91%8B;Software+Engineering+Student;Data+Science+Major;Pixel+Art+%26+Game+Dev+Enthusiast+👾" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1500&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+There,+I+am+Talha+Jalal!;Software+Engineering+Student;Data+Science+Major;Pixel+Art+and+Game+Dev+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p>
@@ -60,8 +60,8 @@ Currently, I am also preparing to pursue a Master's degree in a technical field!
 ## 🏆 Player Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=tee-uwu&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=tee-uwu&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tee-uwu&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tee-uwu&theme=github_dark&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tee-uwu&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tee-uwu&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
