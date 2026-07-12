@@ -30,7 +30,7 @@
 
 ---
 
-# 🎮 SAVE FILE
+#  SAVE FILE
 
 ```text
 ┌──────────────────────────────────────────────────────┐
@@ -48,7 +48,7 @@
 
 ---
 
-# ⚔ CURRENT QUEST
+#  CURRENT QUEST
 
 ```text
 ☑ Learn Machine Learning
@@ -64,7 +64,7 @@
 
 ---
 
-# 📦 INVENTORY
+#  INVENTORY
 
 ```text
 🗡 Languages
@@ -93,7 +93,7 @@
 
 ---
 
-# 🚀 ACTIVE PROJECTS
+#  ACTIVE PROJECTS
 
 ```text
 📂 CryptoStudio
@@ -114,7 +114,7 @@
 
 ---
 
-# 📊 PLAYER STATS
+#  PLAYER STATS
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=tee-uwu&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -125,7 +125,7 @@
 
 ---
 
-# 🏆 ACHIEVEMENTS
+#  ACHIEVEMENTS
 
 ```text
 🏅 Software Engineering Student
@@ -143,7 +143,7 @@
 
 ---
 
-# 💡 RANDOM FACT
+#  RANDOM FACT
 
 ```text
 While others collect Pokémon,
@@ -156,7 +156,7 @@ Current collection:
 
 ---
 
-# 🕹 SYSTEM STATUS
+#  SYSTEM STATUS
 
 ```text
 CPU        ██████████ 100%
@@ -184,6 +184,6 @@ beautiful and fun.
 ██████████████████████████████████████
 ```
 
-⭐ **Thanks for visiting my profile!**
+ **Thanks for visiting my profile!**
 
 </div>
